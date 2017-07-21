@@ -31,4 +31,4 @@ quepy, refo, nltk.
   python main.py "What is the capital of Nepal?"
 ```
 # About the authors
-This program is written by Sangam Sharma and Sajeet Pokharel as a Mini Project for Speech and Natural Language Processing course at Kathmandu University taught my Dr. Bal Krisna Bal.
+This program is written by Sangam Sharma and Sajeet Pokharel as a Mini Project for Speech and Natural Language Processing course at Kathmandu University taught by Dr. Bal Krisna Bal.
